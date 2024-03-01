@@ -1,6 +1,6 @@
 body {
     background-color: lightblue;
 img {
-    width: 50%;  /* Resize width in relation to the containing block */
+    width: 500%;  /* Resize width in relation to the containing block */
     height: auto; /* Maintain the aspect ratio */
 }
