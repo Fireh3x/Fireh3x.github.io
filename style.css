@@ -2,7 +2,7 @@ body {
     background-color: lightblue;
 }
 .responsive-image {
-    width: 100%;
+    width: 50%;
     max-width: 50px;
     height: auto;
 }
